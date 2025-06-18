@@ -1,4 +1,4 @@
-# barbieworld-landing
+# Barbie World Landing Page (Web Design & Development)
 A pink Barbie Landing web page, responsive for mobile devices.
 Pink theme, 2000's cyberscrolling vibes.
 
